@@ -7,7 +7,7 @@ setup(
     author="Olger Männik",
     author_email="olgerm@protonmail.com",
     url="https://github.com/yourusername/baseconverter",  # Optional GitHub URL
-    py_modules=["baseconverter"],  # Your module's name
+    py_modules=["digit_base_conversions"],  # Your module's name
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  # Choose your preferred license
